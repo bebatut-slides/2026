@@ -1,4 +1,4 @@
-CONDA_ENV = slides-2025
+CONDA_ENV = slides-2026
 SHELL=bash
 
 CONDA = $(shell which conda)

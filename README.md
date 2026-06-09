@@ -30,7 +30,7 @@ This repository served the slides for my talks.
     $ make serve
     ```
 
-2. Visualize at `http://localhost:4000/2024/`
+2. Visualize at `http://localhost:4000/2026/`
 
 ## Generate PDF of the slides
 
